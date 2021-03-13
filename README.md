@@ -1,3 +1,4 @@
 # Recipe-App
 
-Recipe application withc custom recipe uploads. 
+Recipe application with custom recipe uploads.
+Demo https://recipe-forkify-ssb.netlify.app/

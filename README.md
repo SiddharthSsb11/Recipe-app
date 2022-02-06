@@ -8,6 +8,8 @@ This is a _responsive web application_ for viewing in both Mobile and Desktop.
 ## Deployed 
 
  https://recipe-forkify-ssb.netlify.app/
+ 
+ ### Screenshot
 
 ## Features
 - Search fro million recipies.
